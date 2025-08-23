@@ -17,8 +17,14 @@ This collection of artifacts is a testament to my progress and competence in cod
 ### Software Design
 This code was created around October 2025, as the first project in the course CS320. This course highlights software testing and data input. The ContactService.java was created to store contact information. I chose this artifact to show my understanding of handling data and show how I can design and implement code that meets the needs of requirements, like the ability to edit contact information or delete it. I want to show I understand how classes perform and interact. I implemented best practices by adding code comments to my code to show updates and add of user’s email.
 
+<img width="225" height="225" alt="download-1" src="https://github.com/user-attachments/assets/043cbc4c-7df4-4c27-9698-cc75a2377b72" />
+
+
 ### Algorithms and Data Structures
 This artifact is from the same project. My artifact is an ArrayList, which is a part of CRUD operations, the data structure that creates the system storage. I wanted a way for my contacts to be validated and handled while maintaining structure and managing any duplicate data. It displays my ability to implement an algorithm to handle errors and load information from a database. I implemented a capacity limit to minimize duplicate data and prevent errors.
+
+<img width="225" height="225" alt="download-2" src="https://github.com/user-attachments/assets/2fa6f23f-9776-4908-a70b-fc4de837ba2e" />
+
 
 ### Databases
 This artifact is from the same project. I chose the ContactService.java because it is the chosen database for this project, and I believe it demonstrates my aptitude to code a program that can sort data quickly and efficiently. This project specifically highlights my ability to code a program when tests are run. I want to enhance my error handling to ensure that the database can connect properly and validate my data.
