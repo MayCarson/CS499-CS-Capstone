@@ -11,6 +11,9 @@ This portfolio shows a plan to enhance a project that failed to even compile at 
 
 This collection of artifacts is a testament to my progress and competence in coding. They serve to illustrate my versatility and comprehension in my field. This project was chosen specifically because it aligned with course requirements, and I was able to enhance it because of meticulous research and testing. It shows I can learn and grow within the field and gives me a glimpse of the road that lies ahead of me as I step into my role within the Air Force as a data analyst. 
 
+<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/da078f7b-66ed-4f76-a77c-b8b044b8712d" />
+
+
 ### Software Design
 This code was created around October 2025, as the first project in the course CS320. This course highlights software testing and data input. The ContactService.java was created to store contact information. I chose this artifact to show my understanding of handling data and show how I can design and implement code that meets the needs of requirements, like the ability to edit contact information or delete it. I want to show I understand how classes perform and interact. I implemented best practices by adding code comments to my code to show updates and add of user’s email.
 
